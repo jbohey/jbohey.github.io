@@ -9,14 +9,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Community Engagement"
+    url: /communityengagement/
+  
   - title: "CV"
-    url: /cv/
+    url: /files/Bohey_CVS_2023.pdf
     
-  - title: "Guide"
-    url: /markdown/
+ 
